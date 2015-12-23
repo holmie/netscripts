@@ -1,5 +1,7 @@
 #!/usr/bin/env python2.7
 """
+Zabbix API Wrapper by Espen Holm Nilsen
+
 Hackish script to return some values I needed from Zabbix, returns beautiful json output
 that can be used by other scripts/things/graphers/etc!
 

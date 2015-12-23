@@ -1,5 +1,7 @@
 #!/usr/bin/env python2.7
 """
+Zabbix API CGI Wrapper by Espen Holm Nilsen
+
 Hackish wrapper for the Zabbix API to return some values I needed
 
 This script returns just the value as a plain string.
