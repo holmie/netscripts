@@ -41,7 +41,7 @@ Usage
 
     python3 fetch_eol.py                # fetch live, compact JSON to stdout
     python3 fetch_eol.py > eol.json     # save to a file
-    python3 fetch_eol.py --local        # parse the bundled page.html instead
+    python3 fetch_eol.py --local        # parse page.html instead
     python3 fetch_eol.py <url>          # parse any other HTML page / URL
 
 The ``--local`` flag, and the automatic fallback below, read from ``page.html``
